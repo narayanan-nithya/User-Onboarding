@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "axios": "^0.24.0",
-    "node-modules": "^1.0.1",
-    "scripts": "^0.1.0",
-    "start": "^5.1.0",
-    "yup": "^0.32.11"
-  }
-}
